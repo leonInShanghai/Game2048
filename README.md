@@ -4,5 +4,5 @@
 一款简单的安卓小游戏 apk下载地址：https://github.com/leonInShanghai/Game2048/blob/master/app/release/app-release.apk
 
 <div align="center">
-<img src="https://github.com/leonInShanghai/ShoppingMall/blob/master/app/src/main/res/drawable-hdpi-v4/atguigu_logo.png" >
+<img src="https://github.com/leonInShanghai/Game2048/blob/master/demoPic/Screenshot_2019-05-18-22-47-25-00.png" >
  </div></br>
