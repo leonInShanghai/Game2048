@@ -5,4 +5,14 @@
 
 <div align="center">
 <img src="https://github.com/leonInShanghai/Game2048/blob/master/demoPic/Screenshot_2019-05-18-22-47-25-00.png" >
- </div></br>
+</div></br>
+
+<div align="center">
+<img src="https://github.com/leonInShanghai/Game2048/blob/master/demoPic/Screenshot_2019-05-18-22-47-36-02.png" >
+</div></br>
+
+<div align="center">
+<img src="https://github.com/leonInShanghai/Game2048/blob/master/demoPic/Screenshot_2019-05-18-22-47-42-52.png" >
+</div></br>
+
+
